@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwonwoo078%2Fhit-counter)](https://hits.seeyoufarm.com)                         
 <!--
 **kwonwoo078/kwonwoo078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
